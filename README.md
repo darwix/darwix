@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm darwix 👋</h1>
-<p align="center">Tinkering on tools that helps me daily. Rust · TypeScript · React.</p>
+<p align="center">Tinkering on tools that helps me daily. Go · Rust · TypeScript · React.</p>
 
 <p align="center">
   <a href="mailto:reggiebeale@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white" />
@@ -8,7 +8,7 @@
 ### 🛠 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,ts,react,python,vite,tauri,sqlite,git" />
+  <img src="https://skillicons.dev/icons?i=go,postgresql,nextjs,wordpress,rust,ts,react,python,vite,tauri,sqlite,git" />
 </p>
 
 ### 📊 Stats
