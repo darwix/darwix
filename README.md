@@ -11,6 +11,15 @@
   <img src="https://skillicons.dev/icons?i=go,postgresql,nextjs,wordpress,rust,ts,react,python,vite,tauri,sqlite,git" />
 </p>
 
+### 🚀 Project Highlights
+
+<p>
+  <a href="https://github.com/darwix/fm24-planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darwix&repo=fm24-planner&hide_border=true" /></a>
+  <a href="https://github.com/darwix/okd-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darwix&repo=okd-pipeline&hide_border=true" /></a>
+  <a href="https://github.com/darwix/excel-sql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darwix&repo=excel-sql&hide_border=true" /></a>
+  <a href="https://github.com/darwix/ecommerce-poc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darwix&repo=ecommerce-poc&hide_border=true" /></a>
+</p>
+
 ### 📊 Stats
 
 <p>
